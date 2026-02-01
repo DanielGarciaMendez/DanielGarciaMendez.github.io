@@ -1,10 +1,10 @@
 ---
-title: "Education"
+title: ""
 permalink: /
 layout: single
 author_profile: true
 ---
----
+## Education
 **University of Houston**  
 Bachelor of Science in Computer Science  
 Minor: Management Information Systems  

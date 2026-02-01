@@ -1,6 +1,7 @@
 ---
 title: "Education"
 permalink: /
+layout: single
 author_profile: true
 ---
 ---

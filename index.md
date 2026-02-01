@@ -1,5 +1,6 @@
 ---
-Title: Education
+Title: "Education"
+url: /
 ---
 **University of Houston**  
 Bachelor of Science in Computer Science  

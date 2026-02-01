@@ -1,4 +1,9 @@
-# Education
+---
+title: "Home"
+permalink: /
+---
+
+
 **University of Houston**  
 Bachelor of Science in Computer Science  
 Minor: Management Information Systems  

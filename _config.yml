@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1765000338722.jfif"
+  avatar           : "images/1765000338722.png"
   name             : "Daniel Garcia Mendez"
   pronouns         : "he/him"  
   bio              : "Computer Science student focused on cybersecurity, and penetration testing"
